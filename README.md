@@ -1,1 +1,1 @@
-# Projet-Jarvis
+.venv\Scripts\activate

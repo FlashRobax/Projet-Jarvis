@@ -1,0 +1,8 @@
+requests
+faster-whisper
+sounddevice
+scipy
+numpy
+pyttsx3
+pyautogui
+pygetwindow
